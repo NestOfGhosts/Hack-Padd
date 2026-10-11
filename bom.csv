@@ -1,0 +1,7 @@
+Part,QTY,Unit,Shipping + taxes ,Total,Vendor
+Chassis,1,7.62,8.11,15.73,JLC3DP
+Pcb,5,1,5.36,10.36,PCBWAY
+"Diodes          
+1N4148FS-ND ",12,0.11,10.52,11.27,Digikey
+Switches,12,6.30/10,4.66,17.26,Amazon https://www.amazon.ca/gp/product/B082FC7K9N?smid=A37TRVJSFA4U4T&psc=1
+Keycaps,12,11.8,1,17.83,https://www.amazon.ca/gp/product/B0DKFXCHKY?smid=A1KL0SRP2TLZV1&psc=1
