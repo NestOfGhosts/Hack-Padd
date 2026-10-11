@@ -88,7 +88,6 @@ If it was a red x, it means that the firmware builder failed. If you're a beginn
 ![alt text](image-2.png) (Prolly with different numbers) or something similar.  
 In my case, it means that there's a typo that starts in line 10, 53 characters to the right. To fix the typo, just match the different elements in that line of code to the example code in the [ZMK.dev Docs](https://zmk.dev/docs/keymaps/behaviors).
 
-If it's something else, ask someone/ai. If you're in hack club, you can try asking someone in the hack club slack
+If it's something else, ask someone/ai. If you're in hack club, you can try asking someone in the hack club slack.
 
-
-
+If instead you wanted to customize the hardware (more/less keys, change layout, change drawings), I recommend just following the guide at [Hackpad.Hackclub](https://hackpad.hackclub.com/) to make your own, cause the existing hardware is an invention of a me from the past, and I cannot decipher his work.
