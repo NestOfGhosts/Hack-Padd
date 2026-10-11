@@ -19,7 +19,7 @@
 | [Keycaps](https://www.amazon.ca/gp/product/B0DKFXCHKY?smid=A1KL0SRP2TLZV1&psc=1) | for finger comfort | 12 | $0.84 | $10.08 | [Amazon](https://www.amazon.ca/gp/product/B0DKFXCHKY?smid=A1KL0SRP2TLZV1&psc=1) |
 | [Seeeduino Moudle Xiao](https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/102010328/11506471) | Computing | 1 | $5.67 | $5.67 | [Digikey](https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/102010328/11506471) |
 | **Parts subtotal** | — | — | — | **$37.89** | — |
-| **Tax & shipping** | — | — | — | **$24.90** | — |
-| **Total** | — | — | — | **$62.79** | — |
+| **Tax & shipping** | — | — | — | **$28.90** | — |
+| **Total** | — | — | — | **$66.79** | — |
 
-$2.21 left of the tier's funding.
+**$1.79 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
