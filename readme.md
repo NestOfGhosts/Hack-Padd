@@ -14,7 +14,7 @@ I assume you're reading this to make your own. The repos comes in 3 parts: the [
 
 - Chassis: 3d print it ideally. You can use other ways to make a box with a plate to hold the keys, but you may need to edit the 3d models to accomadate for your method. If you dont have a 3d printer you should look around your local area for a print farm. I'm getting mine printed in JLC3DP. You can print it with the .step file in [Chassis Cad](./Chassis%20Cad/chassis.step)
 
-- Pcb: Find a pcb printing company and buy one from them based on the gerber files in [Pcb Files](./Pcb%20Files/). I'm getting mine from PCBWay
+- Pcb: Find a pcb printing company and buy one from them based on the gerber files in [Pcb Files](./Pcb%20Files/). I'm getting mine from PCBWay. Ideally use 1.6mm thick pcbs
 
 - 12 Keyswitches + Keycaps: I just got mine from amazon, make sure they work with cherry mx 3 pins
 
