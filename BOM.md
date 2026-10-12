@@ -19,7 +19,7 @@
 | [Keycaps](https://www.aliexpress.com/item/1005006227054571.html?spm=a2g0o.cart.0.0.518f38daN6vv9r&mp=1&pdp_npi=6%40dis%21CAD%21CAD+28.69%21CAD+11.40%21%21CAD+11.40%21%21%21%402101ef5e17917630912665361e0d2e%2112000036368768859%21ct%21CA%21-1%21%211%210%21) | for finger comfort | 30 | $0.40 | $12.00 | [Aliexpress](https://www.aliexpress.com/item/1005006227054571.html?spm=a2g0o.cart.0.0.518f38daN6vv9r&mp=1&pdp_npi=6%40dis%21CAD%21CAD+28.69%21CAD+11.40%21%21CAD+11.40%21%21%21%402101ef5e17917630912665361e0d2e%2112000036368768859%21ct%21CA%21-1%21%211%210%21) |
 | [Seeeduino Moudle Xiao](https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/102010328/11506471) | Computing | 1 | $5.67 | $5.67 | [Digikey](https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/102010328/11506471) |
 | **Parts subtotal** | — | — | — | **$36.85** | — |
-| **Tax & shipping** | — | — | — | **$28.90** | — |
-| **Total** | — | — | — | **$65.75** | — |
+| **Tax & shipping** | — | — | — | **$21.25** | — |
+| **Total** | — | — | — | **$58.10** | — |
 
-**$0.75 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$6.90 left of the tier's funding.
