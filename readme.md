@@ -26,18 +26,26 @@ I assume you're reading this to make your own. The repos comes in 3 parts: the [
     - Download the file (extract if needed)
     - Connect the moudle xiao to your computer
     - Short the two rst pins on the seeeduino twice in succession to put it into bootloader mode
-    ![](./bootloader.png)
+    ![](./bootloader.png) 
+
     (for more info on this step go to [seeduino's wiki](https://wiki.seeedstudio.com/Seeeduino-XIAO/) and scroll down until you see "Enter Bootloader Mode" and "For Xiao SAMD21")
     - A new drive should appear in your file manager. Simply move the .uf2 file into the Seeduino and wait for the file to disappear. When you can no longer see the uf2 the firmware is loaded
 2. Solder the Xiao onto the pcb
     - If you don't know how to solder, I recommend youtube as a starting point.
     - You *should* only be doing through hole soldering. 
-    - Make sure the seeduino is in the right place and orientation. 
-    ![picture of pcb](./Pcb%20Files/image.png) 
-    The seeduino should be on the backside of the pcb, near the top (top is where i put my drawings)
-3. Solder the keys and diodes
+    - Make sure the seeduino is in the right place and orientation.
+    - The seeduino should be on the backside of the pcb, near the top to the right (on the back)
+    <img width="445" height="533" alt="image" src="https://github.com/user-attachments/assets/4a42a590-73bc-4ccd-8511-aedcba268684" />
+
+    (Frontside)
+   
+    <img width="518" height="577" alt="image" src="https://github.com/user-attachments/assets/126ed078-938c-4a54-ba00-65f57fb79184" />
+    
+    (Backside)
+
+4. Solder the keys and diodes
     - Diodes on the backside, switches on the front
-4. Assemble (actually this time)
+5. Assemble (actually this time)
     - pcb in chassis, plate on top, insert the tubes in the holes
 
     wow your did it
