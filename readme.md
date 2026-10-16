@@ -2,11 +2,15 @@
 
 ## A spinoff of a [Hackpad](https://hackpad.hackclub.com/)(A macropad/small keyboard), made by me, for [Hack Club Half Life](https://halflife.hackclub.com/)
 
+## Disclaimer: Havent built this in real life yet. Take this guide as a guide, or wait a couple weeks for me to build it myself
+
 PLACEHOLDER, ADD FINAL PRODUCT IMAGE
 
-I assume you're reading this to make your own. The repos comes in 3 parts: the [chassis](./Chassis%20Cad/) (box you put the pcbs) (3d print/other manufacturing process to make this), the [pcb](./Pcb%20Files/) (Buy from custom pcb seller), and the firmware (the software that translates keystrokes into signals for the computer).
+I assume you're reading this to make your own. The repos comes in 3 parts: the [chassis](./Chassis%20Cad/) (box you put the pcbs) (3d print/other manufacturing process to make this), the [pcb](./Pcb%20Files/) (Buy from custom pcb seller), and the firmware (the software that translates keystrokes into signals for the computer). It cost around 52~ dollars for me to make.
 
 ### Buy the parts
+
+To see more in depth Bill of Materials and costs check [the bom](./bom.md) 
 
 - Seeduino Moudle Xiao: the microcontroller that holds the firmware (I'm getting mine from [digikey](https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/102010328/11506471)). Make sure that the one you get has pins so that you can solder it onto the board
 
