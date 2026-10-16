@@ -1,0 +1,11 @@
+Part,What's For,QTY,Unit,Total,Vendor
+Chassis,Box,1,6.8,6.8,JLC3DP
+Pcb,pcb bruh,5,1,5,PCBWAY
+"Diodes          
+1N4148FS-ND ",to stop wrong electricity,12,0.06,0.72,Digikey
+Seeeduino Xiao Moudle,Computing,1,5.67,5.67,Digikey
+Switches,switching,20,0.26,5.2,Aliexpress
+Keycaps,capping those keys,30,0.41,12.3,Aliexpress
+Subtotal,For accountants,,,35.69,
+Shipping and stuff,Cuz i dont live in a warehouse,,,16.65,
+,,,,52.34,
