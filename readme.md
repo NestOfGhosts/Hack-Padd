@@ -1,6 +1,3 @@
-<img width="1667" height="779" alt="image" src="https://github.com/user-attachments/assets/a7199e87-3744-42fc-9b7a-253d0c453f19" />
-SCREW YOU HALF LIFE REVIEWERSSS >:(
-
 # HackPadd
 
 ## A spinoff of a [Hackpad](https://hackpad.hackclub.com/)(A macropad/small keyboard), made by me, for [Hack Club Half Life](https://halflife.hackclub.com/)
@@ -13,7 +10,19 @@ I assume you're reading this to make your own. The repos comes in 3 parts: the [
 
 ### Buy the parts
 
-To see more in depth Bill of Materials and costs check [the bom](./bom.md) 
+|Part                         |What's For                    |QTY|Unit|Total|Vendor    |
+|-----------------------------|------------------------------|---|----|-----|----------|
+|Chassis                      |Box                           |1  |6.8 |6.8  |JLC3DP    |
+|Pcb                          |pcb bruh                      |5  |1   |5    |PCBWAY    |
+|Diodes           1N4148FS-ND |to stop wrong electricity     |12 |0.06|0.72 |Digikey   |
+|Seeeduino Xiao Moudle        |Computing                     |1  |5.67|5.67 |Digikey   |
+|Switches                     |switching                     |20 |0.26|5.2  |Aliexpress|
+|Keycaps                      |capping those keys            |30 |0.41|12.3 |Aliexpress|
+|Subtotal                     |For accountants               |   |    |35.69|          |
+|Shipping and stuff           |Cuz i dont live in a warehouse|   |    |16.65|          |
+|                             |                              |   |    |52.34|          |
+
+(these are my personal prices, in usd, shipped to canada)
 
 - Seeduino Moudle Xiao: the microcontroller that holds the firmware (I'm getting mine from [digikey](https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/102010328/11506471)). Make sure that the one you get has pins so that you can solder it onto the board
 
