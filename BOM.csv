@@ -1,0 +1,8 @@
+Item,Qty,Supplier,Cost/item,Total Cost,link
+Chassis,1,JLC3DP,$6.80,$6.80,https://jlcpcb.com/
+Pcb,5,PCBWAY,$1.00,$5.00,https://www.pcbway.com/orderonline.aspx
+Diodes 1N4148FS-ND,12,Digikey,$0.06,$0.72,https://www.digikey.ca/en/products/detail/onsemi/1N4148/458603
+Switches,50,Amazon,$0.08,$4.00,https://www.amazon.ca/gp/product/B0GVSBNSHM?smid=A38RSVMRJZYDHW&psc=1
+Keycaps,30,Aliexpress,$0.41,$12.30,https://www.aliexpress.com/item/1005006227054571.html?spm=a2g0o.cart.0.0.518f38daN6vv9r&mp=1&pdp_npi=6%40dis%21CAD%21CAD+28.69%21CAD+11.40%21%21CAD+11.40%21%21%21%402101ef5e17917630912665361e0d2e%2112000036368768859%21ct%21CA%21-1%21%211%210%21
+Seeeduino Moudle Xiao,1,Digikey,$5.67,$5.67,https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/102010328/11506471
+Estimated total shipping,1,,,$16.65,
